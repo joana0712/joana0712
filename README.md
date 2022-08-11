@@ -1,3 +1,12 @@
+Meu nome é Joana.
+Tenho 14 anos
+
+
+
+
+
+
+
 - 👋 Hi, I’m @joana0712
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
