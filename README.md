@@ -1,5 +1,4 @@
 #                        sou a Joana
-#                          14 anos
 #                            1A
 #                     sou do ensino médio
 #                         amo pizza
